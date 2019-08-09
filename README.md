@@ -1,8 +1,7 @@
 # EasyFloatingText
 EasyFloatingText for unity:
-
-Useage Example:
-
+![image](https://github.com/U3DC/EasyFloatingText/blob/master/preview.png)
+Useage Example：
 <pre>
 
 var creator = new FloatingCreator();
