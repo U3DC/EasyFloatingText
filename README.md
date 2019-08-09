@@ -1,6 +1,7 @@
 # EasyFloatingText
 EasyFloatingText for unity
 
+<pre>
 
 var creator = new FloatingCreator();
 	        var text = creator.Create();
@@ -8,4 +9,4 @@ var creator = new FloatingCreator();
 	        ft.TextValue = i.ToString();
 	        ft.Target = go[i].transform;
 	        ft.Camera = camera;
-  
+  </pre>
